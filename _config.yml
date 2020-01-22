@@ -1,11 +1,11 @@
 # Site settings
-author: awesome-writer-4373
-title: 
+author: Hector Armando Perez
+title: Trip to being a software engineer 
 header-img: img/home-bg.png
 email: hectoraperez1999@gmail.com
-copyright_name: awesome-writer-4373
+copyright_name: Hector Armando Perez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software dairy
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hector2-cloud
